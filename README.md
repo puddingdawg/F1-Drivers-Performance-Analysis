@@ -42,4 +42,3 @@ We constructed a sequence of **9 Regression Models**, progressively adding compl
 * **Odds Ratios:** Analysis of the probability of podium finishes based on variables like Fastest Lap.
 
 ---
-*Created by Group 4 (MGEC45)*
