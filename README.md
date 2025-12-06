@@ -11,7 +11,7 @@ Formula 1 is a sport where car performance often overshadows individual driver s
 ### 📂 Repository Contents
 * **[Formula 1 Driver Performance Analysis Research Paper (PDF)](<Formula 1 Driver Performance Analysis Presentation Research Paper.pdf>)**: The complete academic paper detailing the regression analysis, methodology, and results.
 * **[Formula 1 Driver Performance Analysis Presentation Slides (PDF)](<Formula 1 Driver Performance Analysis Presentation Slides.pdf>)**: A presentation deck summarizing the research question, statistical models, and key visualizations.
-* * **[Formula 1 Driver Performance Analysis Dataset (CSV)](<F1 Diver Performance Analysis Dataset.csv>)**: The aggregated dataset used for this analysis, containing race results, driver details, and lap times from 2020-2024.
+* **[Formula 1 Driver Performance Analysis Dataset (CSV)](<F1 Diver Performance Analysis Dataset.csv>)**: The aggregated dataset used for this analysis, containing race results, driver details, and lap times from 2020-2024.
 
 ### 📊 Methodology & Statistical Models
 We constructed a sequence of **9 Regression Models**, progressively adding complexity to improve predictive power and control for omitted variable bias.
