@@ -1,5 +1,5 @@
 # F1-Drivers-Performance-Analysis
-Determining the Best Formula 1 Driver Based on Their Performance and Expertise Using R
+Determining the Best Formula 1 Driver Based on their Performance and Expertise Using R
 
 # 🏎️ Formula 1 Driver Performance Analysis (2020-2024) By William, Rita, and Jayden
 
