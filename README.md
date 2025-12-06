@@ -9,8 +9,8 @@ This research project explores the question: **Who is the best Formula 1 driver 
 Formula 1 is a sport where car performance often overshadows individual driver skill. To address this, we utilized statistical modeling to isolate individual driver contributions from external factors such as team quality, race-specific conditions, and seasonal variances. By stripping away these advantages, this analysis establishes a fairer basis for evaluating driver performance.
 
 ### 📂 Repository Contents
-* **[Formula 1 Driver Performance Analysis Research Paper (PDF)](Formula1_Research_Paper.pdf)**: The complete academic paper detailing the regression analysis, methodology, and results.
-* **[Formula 1 Driver Performance Analysis Presentation Slides (PDF)](Formula1_Presentation_Slides.pdf)**: A presentation deck summarizing the research question, statistical models, and key visualizations.
+* **[Formula 1 Driver Performance Analysis Research Paper (PDF)](Formula 1 Driver Performance Analysis Presentation Research Paper.pdf)**: The complete academic paper detailing the regression analysis, methodology, and results.
+* **[Formula 1 Driver Performance Analysis Presentation Slides (PDF)](Formula 1 Driver Performance Analysis Presentation Slides.pdf)**: A presentation deck summarizing the research question, statistical models, and key visualizations.
 
 ### 📊 Methodology & Statistical Models
 We constructed a sequence of **9 Regression Models**, progressively adding complexity to improve predictive power and control for omitted variable bias.
